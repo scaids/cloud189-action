@@ -3,7 +3,7 @@
 
 ***源代码来自：https://51.ruyo.net/16050.html，仅做了一些修改***
 
-**fork自: https://github.com/t00t00-crypto/cloud189-action ,为清理提交历史删掉了仓库重新上传**
+**fork自: https://github.com/t00t00-crypto/cloud189-action ,为清理提交历史删掉了仓库重新上传了**
 
 ## Github Actions 部署指南
 
