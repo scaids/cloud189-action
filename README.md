@@ -1,7 +1,7 @@
 # 天翼云盘自动签到 + 抽奖
 > 天翼云盘签到 + 抽奖
 
-***源代码来自：https://51.ruyo.net/16050.html，做了一些修改***
+***源代码来自：https://51.ruyo.net/16050.html，仅做了一些修改***
 
 **fork自: https://github.com/t00t00-crypto/cloud189-action ,为清理提交历史删掉了仓库重新上传了**
 
